@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jay Raj
 
-[LinkedIn]([Your LinkedIn URL](https://www.linkedin.com/in/jairaj-gogula/)) | [Email](mailto:iamgjraj@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/) | [Email](mailto:iamgjraj@gmail.com)
 
 ## About Me 😊
 - 🚀 [Your current role]
