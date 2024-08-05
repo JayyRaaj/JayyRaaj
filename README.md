@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 ## About Me 😊
 - 🚀 Softwaare Engineer
-- 🌱 I'm currently learning: GO
+- 🌱 I'm currently learning: Backend Rooadmap
 - 📫 How to reach me: iamgjraj@gmail.com
 
 ## Languages
