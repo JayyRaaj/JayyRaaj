@@ -1,12 +1,10 @@
 # Hi there 👋, I'm Jay Raj
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/) | [Email](mailto:iamgjraj@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 ## About Me 😊
-- 🚀 [Your current role]
-- 🌱 I'm currently learning: [Technology]
-- 📫 How to reach me: your.email@example.com
-- 😄 Pronouns: [Your pronouns]
+- 🚀 Softwaare Engineer
+- 🌱 I'm currently learning: GO
+- 📫 How to reach me: iamgjraj@gmail.com
 
 ## Languages
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -34,5 +32,4 @@
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 <!-- Add more tools -->
 
-## LeetCode Stats
-<!-- You can add your LeetCode stats here -->
+
