@@ -1,4 +1,18 @@
 # 💫 About Me:
+👋 Hi there! I’m a tech enthusiast with 4 years of experience specializing in app development and customer service in the technology industry. My journey includes significant roles at PowerSchool Group LLC and Brandie, where I developed innovative solutions and delivered exceptional support.
+
+At Brandie, I focused on creating cutting-edge Android applications, enhancing both the app portfolio and user experience. My time at PowerSchool allowed me to excel as a Technical Account Manager and Technical Support Engineer, where I provided top-tier customer service and technical guidance, ensuring client satisfaction.
+
+I am currently pursuing a Master of Science in Computer Science at The University of Texas at Arlington, which complements my practical experience and equips me with the latest knowledge in technology.
+
+Core Skills
+Google Cloud Platform (GCP)
+App Development
+Backend Engineer
+Python
+AWS
+I’m eager to leverage my background and expertise to contribute to innovative projects and drive success in future endeavors. Let’s connect!
+
 🚀 Software Engineer<br>🌱 I'm currently learning: Backend Roadmap<br>📫 How to reach me: iamgjraj@gmail.com
 
 
