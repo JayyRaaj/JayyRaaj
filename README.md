@@ -1,19 +1,16 @@
-# 💫 About Me:
-👋 Hi there! I’m a tech enthusiast with 4 years of experience specializing in app development and customer service in the technology industry. My journey includes significant roles at PowerSchool Group LLC and Brandie, where I developed innovative solutions and delivered exceptional support.
+# About Me:
+Hi there! I’m a data-driven tech enthusiast with 4+ years of experience in data engineering, app development, and technical support across the technology industry. My journey includes impactful roles at PowerSchool Group LLC and Brandie, where I delivered scalable backend solutions and supported high-performance systems for millions of users.
 
-At Brandie, I focused on creating cutting-edge Android applications, enhancing both the app portfolio and user experience. My time at PowerSchool allowed me to excel as a Technical Account Manager and Technical Support Engineer, where I provided top-tier customer service and technical guidance, ensuring client satisfaction.
+At Brandie, I built and optimized real-time data pipelines and cloud-native applications, integrating GCP and Python to drive data insights and performance. At PowerSchool, I thrived in client-facing roles as a Technical Account Manager and Support Engineer, translating customer needs into actionable technical solutions.
 
-I am currently pursuing a Master of Science in Computer Science at The University of Texas at Arlington, which complements my practical experience and equips me with the latest knowledge in technology.
+I’m currently pursuing a Master of Science in Computer Science at The University of Texas at Arlington, which strengthens my ability to architect data-centric systems and stay ahead in a rapidly evolving field.
 
 Core Skills
-Google Cloud Platform (GCP)
-App Development
-Backend Engineer
-Python
-AWS
-I’m eager to leverage my background and expertise to contribute to innovative projects and drive success in future endeavors. Let’s connect!
+📊 Data Engineering | 🐍 Python | ☁️ GCP & AWS | 🛠️ ETL Pipelines | 📦 SQL | 🧱 BigQuery | ⚙️ Backend Systems
 
-🚀 Software Engineer<br>🌱 I'm currently learning: Backend Roadmap<br>📫 How to reach me: iamgjraj@gmail.com
+🚀 Data Engineer |
+🌱 Currently learning: Advanced Data Modeling & Stream Processing
+📫 Reach me at: iamgjraj@gmail.com
 
 
 ## 💻 Languages:
