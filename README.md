@@ -1,5 +1,5 @@
 # About Me:
-Hi there! I’m a data-driven tech enthusiast with 4+ years of experience in data engineering, app development, and technical support across the technology industry. My journey includes impactful roles at PowerSchool Group LLC and Brandie, where I delivered scalable backend solutions and supported high-performance systems for millions of users.
+Hi there! I’m a data-driven tech enthusiast with 6+ years of experience in data engineering, app development, and technical support across the technology industry. My journey includes impactful roles at PowerSchool Group LLC and Brandie, where I delivered scalable backend solutions and supported high-performance systems for millions of users.
 
 At Brandie, I built and optimized real-time data pipelines and cloud-native applications, integrating GCP and Python to drive data insights and performance. At PowerSchool, I thrived in client-facing roles as a Technical Account Manager and Support Engineer, translating customer needs into actionable technical solutions.
 
