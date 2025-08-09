@@ -1,16 +1,63 @@
 # About Me:
-Hi there! I’m a data-driven tech enthusiast with 6+ years of experience in data engineering, app development, and technical support across the technology industry. My journey includes impactful roles at PowerSchool Group LLC and Brandie, where I delivered scalable backend solutions and supported high-performance systems for millions of users.
+# Hi there 👋 I'm Jairaj Gogula  
 
-At Brandie, I built and optimized real-time data pipelines and cloud-native applications, integrating GCP and Python to drive data insights and performance. At PowerSchool, I thrived in client-facing roles as a Technical Account Manager and Support Engineer, translating customer needs into actionable technical solutions.
+💻 **Full Stack Engineer | Cloud-Native Developer | Scalable Systems Architect**  
 
-I’m currently pursuing a Master of Science in Computer Science at The University of Texas at Arlington, which strengthens my ability to architect data-centric systems and stay ahead in a rapidly evolving field.
+I’m a results-driven Full Stack Engineer with **6+ years of experience** designing, developing, and deploying scalable applications that serve **millions of users**. My expertise spans **frontend, backend, cloud, and DevOps**, with a strong record of delivering performant, user-friendly, and secure solutions across diverse industries.
 
-Core Skills
-📊 Data Engineering | 🐍 Python | ☁️ GCP & AWS | 🛠️ ETL Pipelines | 📦 SQL | 🧱 BigQuery | ⚙️ Backend Systems
+I’ve built everything from **e-commerce platforms and AI-powered systems** to **real-time chat applications** and **microservices architectures**, using modern stacks like **React, Node.js, Java, Python, and cloud technologies (AWS, GCP)**.  
 
-🚀 Data Engineer |
-🌱 Currently learning: Advanced Data Modeling & Stream Processing
-📫 Reach me at: iamgjraj@gmail.com
+---
+
+## 🚀 Core Competencies
+- **Frontend:** React, Vue.js, Next.js, JavaScript, HTML5, CSS3  
+- **Backend:** Node.js, Java, Python, PHP, REST APIs, Microservices, Kafka  
+- **Databases:** PostgreSQL, MongoDB, MySQL, Redis  
+- **Cloud & DevOps:** AWS (EC2, Lambda, S3), GCP, Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions)  
+- **Architecture:** Scalable systems, API design, real-time event processing, authentication & authorization  
+
+---
+
+## 🏆 Career Highlights
+
+**🔹 Freelance Full Stack Developer | Nov 2022 – Present**
+- Delivered **10+ full-stack applications** (React + Node.js/Java/PHP) for e-commerce and AI solutions.  
+- Architected AWS-based systems handling **50k+ daily active users**.  
+- Achieved **98% user satisfaction** through responsive UI/UX.  
+
+**🔹 Brandie Technologies | 2021 – 2022**
+- Designed **15+ RESTful APIs** powering user authentication & real-time analytics.  
+- Migrated from monolith to **microservices (Docker + Kubernetes)**, cutting deployment time by 40%.  
+- Built WebSocket notification system with **sub-100ms message delivery** for 2M+ active sessions.  
+
+**🔹 PowerSchool Group | 2018 – 2021**
+- Built **full-stack admin dashboards** and enterprise client portals.  
+- Implemented caching & DB optimizations, reducing response times by 40%.  
+- Led microservices deployment achieving **99.9% uptime** for **5M+ MAUs**.  
+
+---
+
+## 📂 Featured Projects
+- **[FitTrack Pro](#)** – Personal fitness dashboard with real-time tracking (React + FastAPI + GCP)  
+- **[SmartHire](#)** – AI-powered job matching platform (React + Node.js + Java + MongoDB + OpenAI)  
+- **[Dynamic E-Commerce Platform](#)** – Real-time pricing & payments (React + Java + AWS + Stripe)  
+- **[Real-time Chat App](#)** – WebSocket-powered messaging (React + Node.js + MongoDB)  
+
+---
+
+## 🎓 Education
+**Master of Science in Computer Science**  
+_University of Texas at Arlington –   
+
+---
+
+## 📫 Connect with Me
+- **Email:** gogulajairaj@gmail.com  
+- **LinkedIn:** [linkedin.com/in/jairaj-gogula](https://www.linkedin.com/in/jairaj-gogula)  
+- **GitHub:** [github.com/JayyRaaj](https://github.com/JayyRaaj)  
+
+---
+⭐ _"Code is more than syntax—it’s the bridge between ideas and impact."_  
 
 
 ## 💻 Languages:
