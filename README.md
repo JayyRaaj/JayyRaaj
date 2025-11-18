@@ -19,7 +19,7 @@ I'm a results-driven Senior Android Developer with **8+ years of experience** de
 
 ## 🏆 Career Highlights
 
-**🔹 Freelance Senior Android Developer | Nov 2022 – Present**
+**🔹 Senior Android Developer  Bank of America| May 2023 – Present**
 - Delivered **10+ production-grade Android applications** (Kotlin + Jetpack stack) for e-commerce and AI solutions.
 - Architected scalable Android apps handling **50k+ daily active users** with optimized performance.
 - Achieved **98% user satisfaction** through intuitive UI/UX and responsive design.
@@ -29,7 +29,7 @@ I'm a results-driven Senior Android Developer with **8+ years of experience** de
 - Implemented real-time messaging system using **Firebase with sub-100ms message delivery** for 2M+ active sessions.
 - Optimized app performance, reducing startup time by 40% through efficient resource management.
 
-**🔹 PowerSchool Group | 2018 – 2021**
+**🔹 PowerSchool Group | 2016 – 2021**
 - Built **full-featured Android admin dashboards** and enterprise client applications.
 - Implemented advanced caching strategies & local database optimization, improving load times by 40%.
 - Led Android app deployment achieving **99.9% uptime** for **5M+ monthly active users**.
