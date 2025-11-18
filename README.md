@@ -54,7 +54,7 @@ _University of Texas at Arlington_
 
 ## 📫 Connect with Me
 
-- **Email:** gogulajairaj@gmail.com
+- **Email:** jairajgogula5@gmail.com
 - **GitHub:** [github.com/JayyRaaj](https://github.com/JayyRaaj)
 
 ---
