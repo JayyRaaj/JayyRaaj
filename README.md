@@ -2,7 +2,7 @@
 # Hi there 👋 I'm Jairaj Gogula 📱 
 **Senior Android Developer | Mobile Architecture Specialist | High-Performance App Architect**
 
-I'm a results-driven Senior Android Developer with **8+ years of experience** designing, developing, and deploying robust Android applications that reach **millions of users globally**. My expertise spans **native Android development, modern architectures, backend integration**, and **DevOps**, with a strong record of delivering performant, user-friendly, and secure mobile solutions across diverse industries. I've built everything from **e-commerce mobile platforms and AI-powered Android apps** to **real-time messaging applications** and **complex enterprise solutions**, using modern stacks like **Kotlin, Java, Jetpack Compose, Firebase, and cloud technologies (AWS, GCP)**.
+I'm a results-driven Senior Android Developer with **6+ years of experience** designing, developing, and deploying robust Android applications that reach **millions of users globally**. My expertise spans **native Android development, modern architectures, backend integration**, and **DevOps**, with a strong record of delivering performant, user-friendly, and secure mobile solutions across diverse industries. I've built everything from **e-commerce mobile platforms and AI-powered Android apps** to **real-time messaging applications** and **complex enterprise solutions**, using modern stacks like **Kotlin, Java, Jetpack Compose, Firebase, and cloud technologies (AWS, GCP)**.
 
 ---
 
@@ -19,7 +19,7 @@ I'm a results-driven Senior Android Developer with **8+ years of experience** de
 
 ## 🏆 Career Highlights
 
-**🔹 Senior Android Developer  Bank of America| May 2023 – Present**
+**🔹 Senior Android Developer  Bank of America| May 2024 – Present**
 - Delivered **10+ production-grade Android applications** (Kotlin + Jetpack stack) for e-commerce and AI solutions.
 - Architected scalable Android apps handling **50k+ daily active users** with optimized performance.
 - Achieved **98% user satisfaction** through intuitive UI/UX and responsive design.
@@ -29,7 +29,7 @@ I'm a results-driven Senior Android Developer with **8+ years of experience** de
 - Implemented real-time messaging system using **Firebase with sub-100ms message delivery** for 2M+ active sessions.
 - Optimized app performance, reducing startup time by 40% through efficient resource management.
 
-**🔹 PowerSchool Group | 2016 – 2021**
+**🔹 PowerSchool Group | 2018 – 2021**
 - Built **full-featured Android admin dashboards** and enterprise client applications.
 - Implemented advanced caching strategies & local database optimization, improving load times by 40%.
 - Led Android app deployment achieving **99.9% uptime** for **5M+ monthly active users**.
