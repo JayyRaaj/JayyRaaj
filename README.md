@@ -2,11 +2,11 @@
 # Hi there 👋 I'm Jairaj Gogula 📱 
 **Senior Android Developer | Mobile Architecture Specialist | High-Performance App Architect**
 
-I'm a results-driven Senior Android Developer with **6+ years of experience** designing, developing, and deploying robust Android applications that reach **millions of users globally**. My expertise spans **native Android development, modern architectures, backend integration**, and **DevOps**, with a strong record of delivering performant, user-friendly, and secure mobile solutions across diverse industries. I've built everything from **e-commerce mobile platforms and AI-powered Android apps** to **real-time messaging applications** and **complex enterprise solutions**, using modern stacks like **Kotlin, Java, Jetpack Compose, Firebase, and cloud technologies (AWS, GCP)**.
+I'm a results-driven Senior Android Developer with **8+ years of experience** designing, developing, and deploying robust Android applications that reach **millions of users globally**. My expertise spans **native Android development, modern architectures, backend integration**, and **DevOps**, with a strong record of delivering performant, user-friendly, and secure mobile solutions across diverse industries. I've built everything from **e-commerce mobile platforms and AI-powered Android apps** to **real-time messaging applications** and **complex enterprise solutions**, using modern stacks like **Kotlin, Java, Jetpack Compose, Firebase, and cloud technologies (AWS, GCP)**.
 
 ---
 
-## 🚀 Core Competencies
+##  Core Competencies
 
 - **Android Development:** Kotlin, Java, Jetpack Compose, XML Layouts, Material Design
 - **Architecture & Design Patterns:** MVVM, MVP, Clean Architecture, Dependency Injection (Hilt), Repository Pattern
@@ -17,7 +17,7 @@ I'm a results-driven Senior Android Developer with **6+ years of experience** de
 
 ---
 
-## 🏆 Career Highlights
+##  Career Highlights
 
 **🔹 Senior Android Developer  Bank of America| May 2024 – Present**
 - Delivered **10+ production-grade Android applications** (Kotlin + Jetpack stack) for e-commerce and AI solutions.
@@ -36,7 +36,7 @@ I'm a results-driven Senior Android Developer with **6+ years of experience** de
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 - **[FitTrack Pro](#)** – Personal fitness dashboard with real-time tracking (Kotlin + Jetpack Compose + Firebase + GCP)
 - **[SmartHire](#)** – AI-powered job matching mobile app (Kotlin + Retrofit + Firebase + OpenAI API)
@@ -52,7 +52,7 @@ _University of Texas at Arlington_
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 - **Email:** jairajgogula5@gmail.com
 - **GitHub:** [github.com/JayyRaaj](https://github.com/JayyRaaj)
@@ -82,12 +82,12 @@ _University of Texas at Arlington_
 ## 💻 Tools & DevOps:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 💻 Design & UX:
+##  Design & UX:
 ![Material Design](https://img.shields.io/badge/Material%20Design-%23757575.svg?style=for-the-badge&logo=materialdesign&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats:
+##  GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=JayyRaaj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JayyRaaj&theme=dark&hide_border=false)
