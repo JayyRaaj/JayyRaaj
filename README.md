@@ -1,9 +1,5 @@
 # About Me:
 # Hi there 👋 I'm Jairaj Gogula 📱 
-**Senior Android Developer | Mobile Architecture Specialist | High-Performance App Architect**
-
-I'm a results-driven Senior Android Developer with **8+ years of experience** designing, developing, and deploying robust Android applications that reach **millions of users globally**. My expertise spans **native Android development, modern architectures, backend integration**, and **DevOps**, with a strong record of delivering performant, user-friendly, and secure mobile solutions across diverse industries. I've built everything from **e-commerce mobile platforms and AI-powered Android apps** to **real-time messaging applications** and **complex enterprise solutions**, using modern stacks like **Kotlin, Java, Jetpack Compose, Firebase, and cloud technologies (AWS, GCP)**.
-
 ---
 
 ##  Core Competencies
