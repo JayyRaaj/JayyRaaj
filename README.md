@@ -15,10 +15,6 @@
 
 ##  Career Highlights
 
-**🔹 Senior Android Developer  Bank of America| May 2024 – Present**
-- Delivered **10+ production-grade Android applications** (Kotlin + Jetpack stack) for e-commerce and AI solutions.
-- Architected scalable Android apps handling **50k+ daily active users** with optimized performance.
-- Achieved **98% user satisfaction** through intuitive UI/UX and responsive design.
 
 **🔹 Brandie Technologies | 2021 – 2022**
 - Designed **15+ REST API integrations** powering user authentication, real-time notifications & analytics.
