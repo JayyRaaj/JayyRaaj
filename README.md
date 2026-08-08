@@ -1,5 +1,5 @@
 # About Me:
-# Hi there 👋 I'm Jairaj Gogula 📱 
+# Hi there 👋 I'm Jai 📱 
 ---
 
 ##  Core Competencies
