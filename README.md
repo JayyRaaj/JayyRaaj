@@ -1,81 +1,77 @@
 # About Me:
-# Hi there 👋 I'm Jai 📱 
+# Hi there 👋 I'm Jai 🤖
 ---
 
-##  Core Competencies
+**Sr. AI/ML Engineer | Python | GenAI & LLMs | MLOps**[cite: 1]
 
-- **Android Development:** Kotlin, Java, Jetpack Compose, XML Layouts, Material Design
-- **Architecture & Design Patterns:** MVVM, MVP, Clean Architecture, Dependency Injection (Hilt), Repository Pattern
-- **Libraries & Frameworks:** Android Studio, LiveData, Room Database, Retrofit, Okhttp, WorkManager, Coroutines
-- **Backend Integration:** REST APIs, GraphQL, Firebase Realtime Database, Firestore, Cloud Functions
-- **Cloud & DevOps:** AWS (Lambda, S3), GCP (Firebase, Cloud Storage), Docker, CI/CD (GitHub Actions, Jenkins)
-- **Performance & Security:** ANR prevention, Memory optimization, SSL Pinning, Encryption, Secure storage, ProGuard/R8
+## 🚀 Core Competencies
 
----
-
-##  Career Highlights
-
-
-**🔹 Brandie Technologies | 2021 – 2022**
-- Designed **15+ REST API integrations** powering user authentication, real-time notifications & analytics.
-- Implemented real-time messaging system using **Firebase with sub-100ms message delivery** for 2M+ active sessions.
-- Optimized app performance, reducing startup time by 40% through efficient resource management.
-
-**🔹 PowerSchool Group | 2018 – 2021**
-- Built **full-featured Android admin dashboards** and enterprise client applications.
-- Implemented advanced caching strategies & local database optimization, improving load times by 40%.
-- Led Android app deployment achieving **99.9% uptime** for **5M+ monthly active users**.
+- **GenAI & LLMs:** OpenAI GPT-4/4o, Anthropic Claude, Llama 3, Mistral, Gemini[cite: 1]
+- **LLM Frameworks & RAG:** LangChain, LangGraph, CrewAI, AutoGen, Pinecone, ChromaDB, FAISS, pgvector[cite: 1]
+- **ML & Deep Learning:** PyTorch, TensorFlow/Keras, Hugging Face Transformers, scikit-learn, XGBoost, LightGBM[cite: 1]
+- **MLOps & DevOps:** MLflow, Kubeflow, Kubernetes, Docker, Terraform, GitHub Actions[cite: 1]
+- **Cloud & Backend:** Python, FastAPI, Flask, AWS, GCP, Azure[cite: 1]
+- **Data Engineering:** PySpark, SQL, Airflow, Kafka, Snowflake, PostgreSQL[cite: 1]
 
 ---
 
-##  Featured Projects
+## 💼 Career Highlights
 
-- **[FitTrack Pro](#)** – Personal fitness dashboard with real-time tracking (Kotlin + Jetpack Compose + Firebase + GCP)
-- **[SmartHire](#)** – AI-powered job matching mobile app (Kotlin + Retrofit + Firebase + OpenAI API)
-- **[Dynamic E-Commerce Mobile](#)** – Real-time product catalog & payments (Kotlin + Room + Firebase + Stripe)
-- **[Real-time Chat App](#)** – WebSocket & Firebase-powered messaging (Kotlin + Firebase Realtime DB + Coroutines)
+**🔹 Lumen Technologies | 2025 - Present**[cite: 1]
+- Designed and deployed Generative AI and agentic workflows using LangGraph and CrewAI for automated resolution recommendations[cite: 1].
+- Built enterprise RAG pipelines over network runbooks using Pinecone and pgvector, improving answer grounding accuracy by ~30%[cite: 1].
+- Fine-tuned open-weight LLMs (Llama 3, Mistral) with LoRA/QLoRA on GPU clusters[cite: 1].
+
+**🔹 Bank of America | 2024 - 2025**[cite: 1]
+- Developed LLM-powered Q&A services grounding GPT-4 (Azure OpenAI) responses in regulatory documents via RAG[cite: 1].
+- Trained fraud/risk-signal models with XGBoost and scikit-learn, optimizing precision/recall targets[cite: 1].
+- Served GenAI endpoints as containerized FastAPI services on Kubernetes with CI/CD via Jenkins and GitHub Actions[cite: 1].
+
+**🔹 Brandie Technologies | 2021 – 2022**[cite: 1]
+- Built and productionized ML models for user churn prediction and content recommendation, lifting campaign conversion in A/B tests[cite: 1].
+- Developed NLP pipelines and fine-tuned BERT classifiers for sentiment analysis and content moderation[cite: 1].
 
 ---
 
-## 🎓 Education
+## 🌟 Featured Projects
 
-**Master of Science in Computer Science**
-_University of Texas at Arlington_
+- **[Enterprise RAG Engine](#)** – Document intelligence with hybrid retrieval and cross-encoder re-ranking (Python + FastAPI + LangChain + Pinecone)
+- **[Multi-Agent Support Bot](#)** – Automated triage and summarization workflows (CrewAI + Llama 3 + Docker)
+- **[Fraud Detection System](#)** – Risk-signal model with data drift monitoring (XGBoost + MLflow + Kubernetes)
+- **[LLMOps Evaluation Suite](#)** – Offline/online evaluation harnesses for GenAI models (LangSmith + Prometheus + Grafana)
 
 ---
 
-##  Connect with Me
+## 🎓 Education & Certifications
 
-- **Email:** jairajgogula5@gmail.com
+- **Master of Science in Computer Science** - _University of Texas at Arlington_[cite: 1]
+- **Certifications:** Google Professional ML Engineer, Azure AI Engineer Associate, Agentic AI Engineer Core Track[cite: 1]
+
+---
+
+## 📫 Connect with Me
+
+- **Email:** jairajgogula5@gmail.com[cite: 1]
 - **GitHub:** [github.com/JayyRaaj](https://github.com/JayyRaaj)
 
 ---
 
-⭐ _"Mobile development is the art of creating seamless experiences that fit in your pocket."_
+⭐ _"If AI is your Weapon. I'm the weapons master."_
 
 ## 💻 Languages:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![XML](https://img.shields.io/badge/XML-%23E34F26.svg?style=for-the-badge&logo=xml&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## 💻 Android & Mobile:
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=for-the-badge&logo=jetpack-compose&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+## 💻 AI, ML & Data:
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ## 💻 Hosting/Cloud:
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-## 💻 Frameworks & Libraries:
-![Retrofit](https://img.shields.io/badge/Retrofit-%23039BE5.svg?style=for-the-badge&logo=android&logoColor=white) ![OkHttp](https://img.shields.io/badge/OkHttp-4CAF50.svg?style=for-the-badge&logo=android&logoColor=white) ![Room Database](https://img.shields.io/badge/Room%20Database-512BD4.svg?style=for-the-badge&logo=android&logoColor=white) ![LiveData](https://img.shields.io/badge/LiveData-4285F4.svg?style=for-the-badge&logo=android&logoColor=white) ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Hilt](https://img.shields.io/badge/Hilt%20DI-FF6F00.svg?style=for-the-badge&logo=android&logoColor=white) ![Glide](https://img.shields.io/badge/Glide%20Image-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white) ![RxJava](https://img.shields.io/badge/RxJava-B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-
-## 💻 Databases:
-![Firebase Realtime](https://img.shields.io/badge/Firebase%20Realtime-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white) ![Firestore](https://img.shields.io/badge/Firestore-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white) ![Room](https://img.shields.io/badge/Room%20SQLite-%23512BD4.svg?style=for-the-badge&logo=android&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-## 💻 Testing & QA:
-![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white) ![Espresso](https://img.shields.io/badge/Espresso-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-C41E3A.svg?style=for-the-badge&logo=java&logoColor=white) ![Firebase Test Lab](https://img.shields.io/badge/Firebase%20Test%20Lab-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## 💻 Tools & DevOps:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-##  Design & UX:
-![Material Design](https://img.shields.io/badge/Material%20Design-%23757575.svg?style=for-the-badge&logo=materialdesign&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## 💻 Databases & MLOps:
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-%23000000.svg?style=for-the-badge&logo=pinecone&logoColor=white) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
 
 ---
 
